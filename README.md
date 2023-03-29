@@ -1,5 +1,5 @@
 # JavaScript Object Notation
-A simple (currently formatted in JSON, with more formats to come) list of popular games from various gaming categories.
+Currently, I use this list as part of Discord's Rich Presence feature just to give my Discord Bot some life. However, you could use this list for absolutely anything else as the type format is readable by just about everything. Have Fun!
 
 # Changelog (Current as of 24/05/2022)
 New:
